@@ -4,17 +4,17 @@ import config
 
 from pyrogram import Client, filters
 
-from AbdoX import app
+from JackMusic import app
 
 from config import OWNER_ID
 
-from AbdoX.misc import SUDOERS
+from JackMusic.misc import SUDOERS
 
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message, ReplyKeyboardMarkup
 
 from pyrogram.types import (InlineKeyboardButton,CallbackQuery,InlineKeyboardMarkup, Message)
 
-from AbdoX import (Apple, Resso, Spotify, Telegram, YouTube, app)
+from JackMusic import (Apple, Resso, Spotify, Telegram, YouTube, app)
 
 
 
