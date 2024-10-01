@@ -19,18 +19,18 @@ def track_markup(_, user_id, channel, fplay):
          [
             InlineKeyboardButton(
                 text=_["P_B_4"],
-                url=f"https://t.me/YeYvYe",
+                url=f"https://t.me/SO_AM0",
             ),
         ],
 
         [
             InlineKeyboardButton(
                 text=_["P_B_1"],
-                url=f"https://t.me/Tm_JACK",
+                url=f"https://t.me/Q_W_Q_V",
             ),
             InlineKeyboardButton(
                 text=_["P_B_2"],
-                url=f"https://t.me/SOURCE_JACK",
+                url=f"https://t.me/s_u_s_l",
             ),
         ],
         [
@@ -134,16 +134,16 @@ def stream_markup(_, videoid, chat_id):
         [
             InlineKeyboardButton(
                 text=_["P_B_4"],
-                url=f"https://t.me/YeYvYe",
+                url=f"https://t.me/SO_AM0",
             ),
         ],
         [
             InlineKeyboardButton(
                 text=_["P_B_2"],
-                url=f"https://t.me/SOURCE_JACK"),
+                url=f"https://t.me/s_u_s_l"),
             InlineKeyboardButton(
                 text=_["P_B_1"],
-                url=f"https://t.me/Tm_JACK"),
+                url=f"https://t.me/Q_W_Q_V"),
         ],
         [
             InlineKeyboardButton(
@@ -170,7 +170,7 @@ def playlist_markup(_, videoid, user_id, ptype, channel, fplay):
         [
             InlineKeyboardButton(
                 text=_["P_B_4"],
-                url=f"https://t.me/YeYvYe",
+                url=f"https://t.me/SO_AM0",
             ),
         ],
 
@@ -229,18 +229,18 @@ def slider_markup(_, videoid, user_id, query, query_type, channel, fplay):
         [
             InlineKeyboardButton(
                 text=_["P_B_4"],
-                url=f"https://t.me/YeYvYe",
+                url=f"https://t.me/SO_AM0",
             ),
         ],
 
         [
             InlineKeyboardButton(
                 text=_["P_B_1"],
-                url=f"https://t.me/Tm_JACK",
+                url=f"https://t.me/Q_W_Q_V",
             ),
             InlineKeyboardButton(
                 text=_["P_B_2"],
-                url=f"https://t.me/SOURCE_JACK",
+                url=f"https://t.me/s_u_s_l",
             ),
         ],
         [
