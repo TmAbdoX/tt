@@ -12,8 +12,8 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # Add Owner Username without @ 
-OWNER_USERNAME = getenv("OWNER_USERNAME","YeYvYe")
-USER_OWNER = getenv("USER_OWNER","YeYvYe")
+OWNER_USERNAME = getenv("OWNER_USERNAME","SO_AM0")
+USER_OWNER = getenv("USER_OWNER","SO_AM0")
 # Get Your bot username
 BOT_USERNAME = getenv("BOT_USERNAME" , None)
 # Don't Add style font 
@@ -52,9 +52,9 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SOURCE_JACK")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/SOURCE_JACK")
-OWNER_CHANNEL = getenv("OWNER_CHANNEL", "https://t.me/SOURCE_JACK")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/s_u_s_l")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/s_u_s_l")
+OWNER_CHANNEL = getenv("OWNER_CHANNEL", "https://t.me/s_u_s_l")
 GROUP_BOT = int(getenv("GROUP_BOT", "-1002121629581"))
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
